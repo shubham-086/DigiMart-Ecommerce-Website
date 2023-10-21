@@ -1,15 +1,15 @@
 # DigiMart-Ecommerce-Website
- This MERN stack eCommerce website is a modern and user-friendly online shopping platform. It seamlessly integrates the power of MongoDB,  Express.js, React, and Node.js to deliver a robust and efficient shopping experience.
+This MERN stack eCommerce website is a modern and user-friendly online shopping platform. It seamlessly integrates the power of MongoDB,  Express.js, React, and Node.js to deliver a robust and efficient shopping experience.
 
- #Features
- *User authentication and authorization(JWT)
- *Payemnt Gateway
- *Forgot Password & Reset Password
- *Product listing and search
- *Product details and reviews
- *Cart management
+## Features
+ * User authentication and authorization(JWT)
+ * Payemnt Gateway
+ * Forgot Password & Reset Password
+ * Product listing and search
+ * Product details and reviews
+ * Cart management
 
-  #Screenshots
+## Screenshots
 ![Screenshot 2023-10-21 164806](https://github.com/shubham-086/DigiMart-Ecommerce-Website/assets/138518462/c20e88e6-5510-48c7-a925-4e8cca0c61ed)
 ![Screenshot 2023-10-21 164907](https://github.com/shubham-086/DigiMart-Ecommerce-Website/assets/138518462/cae1619c-ddee-444e-b44a-6a9ff99b9e55)
 ![Web capture_21-10-2023_17100_e-shopit vercel app](https://github.com/shubham-086/DigiMart-Ecommerce-Website/assets/138518462/1b42dcb9-d6cd-4f7a-a625-adf8459df5f3)
